@@ -11,39 +11,23 @@ import { WelcomeScreen } from "@/components/WelcomeScreen"
 const lastUpdated = "Last updated: May 6, 2025"
 
 const prompts = [
-  "When are you misunderstood?",
+  "We all need to fit in a box, but all boxes have six planes. What are the other five labels you can use for yourself?",
   "What is your reputation?",
   "What is your spirit age?",
+  "When are you misunderstood?",
   "Are you an artist?",
   "When do you think about life?",
+  "Do you see something no one else does?",
   "What can we wish you?",
   "Are you successful?",
   "What do you know but can't explain?",
-  "Where do you log change?",
+  "Do you see something no one else does?",
   "What moves you?",
   "Who Controls your time?",
-  "What annoys you?",
-  "When are you asked to be ceremonial?",
   "Who are you trying to help?",
   "When do you perform?",
   "What bores you?",
   "What do you wish you could measure?",
-  // New prompts
-  "What is the cost of planning?",
-  "How do you invite people?",
-  "What is the language of belonging?",
-  "Where do you reflect?",
-  "Where does meaning belong?",
-  "How to experiment with belonging?",
-  "What makes a place of belonging?",
-  "What is the value of a place we have not been to yet?",
-  "Who are you in the place you are?",
-  "Where does noticing start?",
-  "What happens over time?",
-  "What is the value of the places we have been to?",
-  "What is care?",
-  "How do you communicate value?",
-  "What's the direction of things?",
 ]
 
 const colors = ["#78B383", "#7B0202", "#F6A42B", "#DA1A11", "#1E283A"]
